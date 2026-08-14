@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.vscode/
+TestResults/
+artifacts/
+.dotnet/
+.dotnet-cli-home/
+*.user
+*.suo
+*.3dm
+*.yak
+__pycache__/
+.last-smoke.txt

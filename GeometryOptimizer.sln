@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryOptimizer.Core", "src\GeometryOptimizer.Core\GeometryOptimizer.Core.csproj", "{1D392616-65B7-4C74-91CA-920638985877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryOptimizer.Rhino", "src\GeometryOptimizer.Rhino\GeometryOptimizer.Rhino.csproj", "{C2361E28-E740-4C26-AF4E-75CE944BFD4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryOptimizer.Core.Tests", "tests\GeometryOptimizer.Core.Tests\GeometryOptimizer.Core.Tests.csproj", "{60045336-73A4-41E2-8355-80FB88A95096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D392616-65B7-4C74-91CA-920638985877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D392616-65B7-4C74-91CA-920638985877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D392616-65B7-4C74-91CA-920638985877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D392616-65B7-4C74-91CA-920638985877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2361E28-E740-4C26-AF4E-75CE944BFD4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2361E28-E740-4C26-AF4E-75CE944BFD4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2361E28-E740-4C26-AF4E-75CE944BFD4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2361E28-E740-4C26-AF4E-75CE944BFD4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60045336-73A4-41E2-8355-80FB88A95096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60045336-73A4-41E2-8355-80FB88A95096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60045336-73A4-41E2-8355-80FB88A95096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60045336-73A4-41E2-8355-80FB88A95096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
